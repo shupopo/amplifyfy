@@ -1,0 +1,14 @@
+{
+    "envone": {
+        "awscloudformation": {
+            "AuthRoleName": "amplifyfy-20190217002849-authRole",
+            "UnauthRoleArn": "arn:aws:iam::978236274383:role/amplifyfy-20190217002849-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::978236274383:role/amplifyfy-20190217002849-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplifyfy-20190217002849-deployment",
+            "UnauthRoleName": "amplifyfy-20190217002849-unauthRole",
+            "StackName": "amplifyfy-20190217002849",
+            "StackId": "arn:aws:cloudformation:us-east-1:978236274383:stack/amplifyfy-20190217002849/90ee7940-31ff-11e9-8ecc-0a55ab548dc0"
+        }
+    }
+}
